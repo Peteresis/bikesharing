@@ -21,13 +21,17 @@ The worksheets generated using Tableau are the following:
 ⚠️ Click on any image to zoom
 
 #### Worksheet 1:
-It shows that the data received contains 2,344,244 records of individual rides and there were 13,983 bikes in use during the month of August 2019.</br>
-<img align="left" width="400" src="https://user-images.githubusercontent.com/98360572/169608636-105526d8-ba1d-4e41-b4c8-20aee31d48af.png"><br/>
-</br>
+It shows that the data received contains 2,344,244 records of individual rides and there were 13,983 bikes in use during the month of August 2019.
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/98360572/169608636-105526d8-ba1d-4e41-b4c8-20aee31d48af.png" width="50%" height="50%">
+</p>
+
 #### Worksheet 2:
-Checkout Times for users.</br>
-<img align="left" width="400" src="https://user-images.githubusercontent.com/98360572/169609187-5628588d-1647-4a5c-bf71-da6d76706b9e.png"></br>
-</br>
+Checkout Times for users.
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/98360572/169609187-5628588d-1647-4a5c-bf71-da6d76706b9e.png" width="50%" height="50%">
+</p>
+
 
 ## :three: Summary
 
