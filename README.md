@@ -38,7 +38,7 @@ Checkout Times for users.
 
 
 
-# :four: References
+## :four: References
 
 **Module 11: Creating Dynamic Content**, https://courses.bootcampspot.com/courses/1145/pages/11-dot-0-1-creating-dynamic-content, :copyright: 2020-2021 Trilogy Education Services, Web 15 Apr 2022.
 
