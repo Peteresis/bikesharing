@@ -103,7 +103,6 @@ Even though we have not received any financial data from CitiBike, [their websit
 |   **CitiBike Service Prices as of May 2022**     |
 | ----------- |
 |     Suscriptions cost $15.42 per month   |
-| ----------- |
 |     Single rides cost $3.99 each   |
 
 
