@@ -22,56 +22,56 @@ Below are the worksheets generated using Tableau.
 | ----------- |
 
 
-#### Worksheet 1:
+#### Worksheet 1: NYC CitiBike Basic Data
 It shows that the data received contains 2,344,244 records of individual rides and there were 13,983 bikes in use during the month of August 2019. `That is about 6 trips per bike per day`.
 <p align="center">
  <img src="https://user-images.githubusercontent.com/98360572/169608636-105526d8-ba1d-4e41-b4c8-20aee31d48af.png" width="50%" height="50%">
 </p>
 
-#### Worksheet 2:
+#### Worksheet 2: Top Starting Stations
 Map of the Stations with more than 10,000 trips in the month of August 2019.  `Top stations are concentrated in lower Manhattan`.
 <p align="center">
  <img src="https://user-images.githubusercontent.com/98360572/169657635-dc5905b4-5522-4578-83f2-6b1f9481467a.png" width="50%" height="50%">
 </p>
 
-### Worksheet 3:
+### Worksheet 3: Top Starting Stations by Number of Rides
 Chart of the top stations. `Each of the top 10 stations generated more than 11,500 rides`. 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/98360572/169657755-efc2dd36-c329-421a-bdcf-9c9e64cc42e4.png" width="50%" height="50%">
 </p>
 
-### Worksheet 4:
+### Worksheet 4: Trip Duration
 Duration per ride. `Most rides have a duration of 30 minutes or less`.
 <p align="center">
  <img src="https://user-images.githubusercontent.com/98360572/169658015-ed83c53e-8ef5-4b8a-8e85-2ab7c9907dd7.png" width="50%" height="50%">
 </p>
 
-### Worksheet 5:
+### Worksheet 5: Trip Duration by Gender
 Trip duration by Gender. `The service is used predominantly by men at an approximate ratio of 3 to 1`.
 <p align="center">
  <img src="https://user-images.githubusercontent.com/98360572/169657935-c13030b9-ca30-4078-9201-08147cfaf06b.png" width="50%" height="50%">
 </p>
 
-### Worksheet 6:
+### Worksheet 6: Number of Rides per Weekday
 `Thursdays, Fridays and Saturdays are the days with more rides`.
 <p align="center">
  <img src="https://user-images.githubusercontent.com/98360572/169658152-94b4e9a9-8811-4aee-bf5c-dc7b19aae7f6.png" width="50%" height="50%">
 </p>
 
-### Worksheet 7:
+### Worksheet 7: Heatmap of Trip Time of the Day vs Weekday 
 There are two peak times during weekdays: `from 7 am to 9 am (beginning of workday) and 4 pm to 7 pm (ending of workday)`.  
 During weekends the rides are more evenly distributed.
 <p align="center">
  <img src="https://user-images.githubusercontent.com/98360572/169658205-fc2d4064-7b30-40ad-905f-1ecfe33c3d7f.png" width="50%" height="50%">
 </p>
 
-### Worksheet 8:
+### Worksheet 8: Hour of Start Time vs Gender vs Weekday
 `Men use more the service than women`.  Both genders ride bikes at about the same time of the day.
 <p align="center">
  <img src="https://user-images.githubusercontent.com/98360572/169658267-0aeaec17-ff58-4392-9295-2ebb0568ef34.png" width="50%" height="50%">
 </p>
 
-
+### Worksheet 9:
 
 
 
