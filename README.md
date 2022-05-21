@@ -40,6 +40,18 @@ Chart of the top stations. `Each of the top 10 stations generated more than 11,5
  <img src="https://user-images.githubusercontent.com/98360572/169657755-efc2dd36-c329-421a-bdcf-9c9e64cc42e4.png" width="50%" height="50%">
 </p>
 
+### Worksheet 4:
+Duration per ride. `Most rides have a duration of 30 minutes or less`.
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/98360572/169658015-ed83c53e-8ef5-4b8a-8e85-2ab7c9907dd7.png" width="50%" height="50%">
+</p>
+
+### Worksheet 5:
+Trip duration by Gender. `The service is used predominantly by men at an approximate ratio of 3 to 1`.
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/98360572/169657935-c13030b9-ca30-4078-9201-08147cfaf06b.png" width="50%" height="50%">
+</p>
+
 
 ## :three: Summary
 
