@@ -98,8 +98,18 @@ Based on the number of 'Unknown' gender, the quality of demographic data among s
 
 ## :three: Summary
 
+Based on the data analyzed, it seems like the CitiBike service in NYC is a successful venture, but can DesBikes succeed in Des Moines, Iowa?
+
+The site `BestPlaces.net(https://bestplaces.net)` 
+
+[2022 Compare Cities Overview: Des Moines, IA vs New York, NY](https://www.bestplaces.net/compare-cities/des_moines_ia/new_york_ny/overview)
+
+
 ![image](https://user-images.githubusercontent.com/98360572/169660596-a761bdb2-e74f-47e7-8cd2-49363e41922b.png)
 
+![image](https://user-images.githubusercontent.com/98360572/169661488-a4120ced-30c5-4c22-9369-89bf7df1bff8.png)
+
+[Des Moines map overimposed on New York map](https://www.size-explorer.com/en/compare/cities/newyork2/desmoines2/) 
 
 ## :four: References
 
