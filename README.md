@@ -105,7 +105,10 @@ The site `BestPlaces.net` offers a comparison between both cities using census d
 The comparison of other factors are not conclusive.  The median age in Des Moines and NY is very similar, although the median income in Des Moines is 12% lower but the living costs in NY are much higher, so in relative terms the inhabitants of Des Moines are better off than New Yorkers.  It is worth noting that according to the data in `BestPlaces.net`, the housing costs in NY are 287.8% higher than Des Moines.
 
 ### Data from BestPlaces.net ([2022 Compare Cities Overview: Des Moines, IA vs New York, NY](https://www.bestplaces.net/compare-cities/des_moines_ia/new_york_ny/overview))
-![image](https://user-images.githubusercontent.com/98360572/169660596-a761bdb2-e74f-47e7-8cd2-49363e41922b.png)
+
+|   ![image](https://user-images.githubusercontent.com/98360572/169660596-a761bdb2-e74f-47e7-8cd2-49363e41922b.png)     |
+| ----------- |
+
 
 ![image](https://user-images.githubusercontent.com/98360572/169661488-a4120ced-30c5-4c22-9369-89bf7df1bff8.png)
 
