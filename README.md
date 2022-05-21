@@ -98,13 +98,7 @@ Based on the number of 'Unknown' gender, the quality of demographic data among s
 
 ## :three: Summary
 
-Even though we have not received any financial data from CitiBike, [their website](https://citibikenyc.com/) indicates the cost of the service as follows:
-
-|   **CitiBike Service Prices as of May 2022**     |
-| ----------- |
-|     Suscriptions cost $15.42 per month   |
-|     Single rides cost $3.99 each   |
-
+![image](https://user-images.githubusercontent.com/98360572/169660596-a761bdb2-e74f-47e7-8cd2-49363e41922b.png)
 
 
 ## :four: References
