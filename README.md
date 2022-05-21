@@ -1,17 +1,6 @@
 ![cosmo-hero22](https://user-images.githubusercontent.com/98360572/169594155-8be04a88-e352-40c8-a1aa-c08518ced21b.png)
 # Analysis of NYC CitiBike Trip Data Using Tableau
 ---
-#### Table of Contents
-
-[Overview]()  
-[Resources](#resources)  
-[Objectives](#objectives)  
-[Summary](#summary)   
-[Challenge Overview](#challenge-overview)  
-[Challenge Objectives](#challenge-objectives)
-[Challenge Summary](#challenge-summary)  
-[Limitations](#limitations)
----
 
 ## :one: Overview of the analysis 
 
@@ -121,7 +110,7 @@ The comparison of other factors are not conclusive.  The median age in Des Moine
 |   ![image](https://user-images.githubusercontent.com/98360572/169660596-a761bdb2-e74f-47e7-8cd2-49363e41922b.png)     |
 | ----------- |
 
-The second factor to consider is geography.  As can be seen in the image below, the city of Des Moines is much smaller than New York.  The average conmute time in Des Moines is 18.83 minutes (see table above) while in NY is 40.78 minutes, so it seems like the size of the city and the relative fluid traffic in Des Moines makes a bike share program less attractive than in NYC
+The second factor to consider is geography.  As can be seen in the image below, the city of Des Moines is much smaller than New York.  The average commute time in Des Moines is 18.83 minutes (see table above) while in NY is 40.78 minutes, so it seems like the size of the city and the relative fluid traffic in Des Moines makes a bike share program less attractive than in NYC.
 
 ### Map of Des Moines superimposed on the map of New York
 ![image](https://user-images.githubusercontent.com/98360572/169661488-a4120ced-30c5-4c22-9369-89bf7df1bff8.png)
@@ -130,12 +119,10 @@ The second factor to consider is geography.  As can be seen in the image below, 
 
 ## :four: References
 
-**Module 11: Creating Dynamic Content**, https://courses.bootcampspot.com/courses/1145/pages/11-dot-0-1-creating-dynamic-content, :copyright: 2020-2021 Trilogy Education Services, Web 15 Apr 2022.
+**Module 14: Tableau Basics**, https://courses.bootcampspot.com/courses/1145/pages/14-dot-0-1-tableau-basics, :copyright: 2020-2021 Trilogy Education Services, Web 21 May 2022.
 
-**An overview of Bootstrap Table, how to download and use, basic templates, and more.**, https://bootstrap-table.com/docs/getting-started/introduction/
+**Tableau Demo**, https://www.youtube.com/watch?v=lR5Aiy5umvw
 
-**Excel Like Filter**, https://technogeeksfdc.wordpress.com/2021/05/17/excel-like-filter/
+**2022 Compare Cities Overview: Des Moines, IA vs New York, NY**, https://www.bestplaces.net/compare-cities/des_moines_ia/new_york_ny/overview
 
-**Excel-like Bootstrap Table Sorting And Filtering Plugin**, https://www.jqueryscript.net/table/Excel-like-Bootstrap-Table-Sorting-Filtering-Plugin.html
-
-**Excel like Filter in HTML table**, https://embed.plnkr.co/plunk/w4z9A4
+**Size Explorer: Comparing the size of New York and Des Moines**, https://www.size-explorer.com/en/compare/cities/newyork2/desmoines2/
