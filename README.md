@@ -52,6 +52,28 @@ Trip duration by Gender. `The service is used predominantly by men at an approxi
  <img src="https://user-images.githubusercontent.com/98360572/169657935-c13030b9-ca30-4078-9201-08147cfaf06b.png" width="50%" height="50%">
 </p>
 
+### Worksheet 6:
+`Thursdays, Fridays and Saturdays are the days with more rides`.
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/98360572/169658152-94b4e9a9-8811-4aee-bf5c-dc7b19aae7f6.png" width="50%" height="50%">
+</p>
+
+### Worksheet 7:
+There are two peak times during weekdays: `from 7 am to 9 am (beginning of workday) and 4 pm to 7 pm (ending of workday)`.  
+During weekends the rides are more evenly distributed.
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/98360572/169658205-fc2d4064-7b30-40ad-905f-1ecfe33c3d7f.png" width="50%" height="50%">
+</p>
+
+### Worksheet 8:
+`Men use more the service than women`.  Both genders ride bikes at about the same time of the day.
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/98360572/169658267-0aeaec17-ff58-4392-9295-2ebb0568ef34.png" width="50%" height="50%">
+</p>
+
+
+
+
 
 ## :three: Summary
 
