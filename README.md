@@ -82,7 +82,7 @@ Based on the number of 'Unknown' gender, the quality of demographic data among s
 ### Worksheet 10: Top Users by Age and Ride Duration
 `The 'Top 10' user group, by Ride Duration, ranges from 24 to 34 years`.  There is a spike of users of 50 years of age that looks odd.  The data needs to be cleaned. 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/98360572/169659171-0bf06f51-963e-41fd-bda8-2389750e9e69.png" width="50%" height="50%">
+ <img src="https://user-images.githubusercontent.com/98360572/169665940-4322be64-4de1-4141-b8af-051a647eae6c.png" width="50%" height="50%">
 </p>
 
 ### Worksheet 11: Summary Worksheet - CitiBike in NYC User Profile
