@@ -119,7 +119,7 @@ The second consideration is geography. Des Moines, as shown in the image below, 
 | The smaller geographical area of Des Moines in comparison to New York, as well as the shorter commute times, make the idea of investing in a bike share program for Des Moines less appealing. |
 | ---------- |
 
-## :four: NYC CitiBike Tableau's Story
+## :four: NYC CitiBike Tableau's Story Visualization
 The link below will take you to a visualization of the NYC CitiBike service's storyboard created with Tableau.
 
 |   (https://public.tableau.com/app/profile/peter.marrett/viz/2022-05-211458NYCCityBikeFinal/NYCCityBikeStory?publish=yes)     |
