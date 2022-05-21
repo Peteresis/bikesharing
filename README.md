@@ -100,13 +100,11 @@ Based on the number of 'Unknown' gender, the quality of demographic data among s
 
 Based on the data analyzed, it seems like the CitiBike service in NYC is a successful venture but, can DesBikes succeed in Des Moines, Iowa?
 
-The site `BestPlaces.net` ([2022 Compare Cities Overview: Des Moines, IA vs New York, NY](https://www.bestplaces.net/compare-cities/des_moines_ia/new_york_ny/overview)) offers a comparison between both cities using census data.  From the table below the first line of information calls our attention immediately.  The population in Des Moines is `212,312` inhabitants while New York has `8,253,213`, so New York's population is almost 40 times bigger than Des Moines (the exact figure is 38.9).  The number of rides per inhabitant in NYC is `2,344,244 rides / 8,253,213 inhabitants = 0.284 rides/inhabitant`.  If we apply the same proportion to Des Moines, the potential market would be `212,312 inhabitants * 0.284 rides/inhabitant = 60,305 rides per month`, a far cry from the 2.3 million rides per month of NYC.
+The site `BestPlaces.net` offers a comparison between both cities using census data.  From the table below the first line of information calls our attention immediately.  The population in Des Moines is `212,312` inhabitants while New York has `8,253,213`, so New York's population is almost 40 times bigger than Des Moines (the exact figure is 38.9).  The number of rides per inhabitant in NYC is `2,344,244 rides / 8,253,213 inhabitants = 0.284 rides/inhabitant`.  If we apply the same proportion to Des Moines, the potential market would be `212,312 inhabitants * 0.284 rides/inhabitant = 60,305 rides per month`, a far cry from the 2.3 million rides per month of NYC.
 
 The comparison of other factors are not conclusive.  The median age in Des Moines and NY is very similar, although the median income in Des Moines is 12% lower but the living costs in NY are much higher, so in relative terms the inhabitants of Des Moines are better off than New Yorkers.  It is worth noting that according to the data in `BestPlaces.net`, the housing costs in NY are 287.8% higher than Des Moines.
 
-
-
-
+### Data from BestPlaces.net ([2022 Compare Cities Overview: Des Moines, IA vs New York, NY](https://www.bestplaces.net/compare-cities/des_moines_ia/new_york_ny/overview))
 ![image](https://user-images.githubusercontent.com/98360572/169660596-a761bdb2-e74f-47e7-8cd2-49363e41922b.png)
 
 ![image](https://user-images.githubusercontent.com/98360572/169661488-a4120ced-30c5-4c22-9369-89bf7df1bff8.png)
