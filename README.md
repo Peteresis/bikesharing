@@ -66,13 +66,35 @@ During weekends the rides are more evenly distributed.
 </p>
 
 ### Worksheet 8: Hour of Start Time vs Gender vs Weekday
-`Men use more the service than women`.  Both genders ride bikes at about the same time of the day.
+`Men use the service more than women`.  Both genders ride bikes at about the same time of the day.
 <p align="center">
  <img src="https://user-images.githubusercontent.com/98360572/169658267-0aeaec17-ff58-4392-9295-2ebb0568ef34.png" width="50%" height="50%">
 </p>
 
-### Worksheet 9:
+### Worksheet 9: Heatmap of User Type vs Gender vs Day of the Week
+`Male suscribers are the main users of the system`, followed by female suscribers.  The rate of 3:1 is maintained.  
+Based on the number of 'Unknown' gender, the quality of demographic data among suscribed users is better than the quality of data of 'Customer' users.
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/98360572/169658621-882d3316-9463-4392-803e-537e8abc5369.png" width="50%" height="50%">
+</p>
 
+### Worksheet 10: Top Users by Age and Ride Duration
+`The 'Top 10' user group, by Ride Duration, ranges from 24 to 34 years`.  There is a spike of users of 50 years of age that looks odd.  The data needs to be cleaned. 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/98360572/169659171-0bf06f51-963e-41fd-bda8-2389750e9e69.png" width="50%" height="50%">
+</p>
+
+### Worksheet 11: Summary Worksheet - CitiBike in NYC User Profile
+>Gender: Male.
+>Age: 24 to 34 years old.
+>Rides mostly in the lower Manhattan.
+>Based on the peak hours of the service, most rides use CitiBike to get to and from work.
+>Rides last less than 30 minutes
+>Each bike is used an `average` of 6 times per day
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/98360572/169659221-adf6c801-1e57-45a8-af34-d07b54885b20.png" width="50%" height="50%">
+</p>
 
 
 ## :three: Summary
