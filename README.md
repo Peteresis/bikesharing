@@ -90,8 +90,8 @@ Based on the number of 'Unknown' gender, the quality of demographic data among s
 * Age: 24 to 34 years old.
 * Rides mostly in the lower Manhattan.
 * Based on the peak hours of the service, most riders use CitiBike to get to and from work.
-* Rides last less than 30 minutes
-* Each bike is used an `average` of 6 times per day
+* Rides last less than 30 minutes.
+* Each bike is used an `average` of 6 times per day.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/98360572/169659221-adf6c801-1e57-45a8-af34-d07b54885b20.png" width="50%" height="50%">
