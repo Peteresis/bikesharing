@@ -18,20 +18,26 @@ The data received consists of a CSV file for the month of August 2019.  This fil
 
 Below are the worksheets generated using Tableau.
 
-|   ⚠️ **Click on any image to zoom**     |
+|   ⚠️ **NOTE: Please click on any image to zoom**     |
 | ----------- |
 
 
 #### Worksheet 1:
-It shows that the data received contains 2,344,244 records of individual rides and there were 13,983 bikes in use during the month of August 2019.
+It shows that the data received contains 2,344,244 records of individual rides and there were 13,983 bikes in use during the month of August 2019. `That is about 6 trips per bike per day`.
 <p align="center">
  <img src="https://user-images.githubusercontent.com/98360572/169608636-105526d8-ba1d-4e41-b4c8-20aee31d48af.png" width="50%" height="50%">
 </p>
 
 #### Worksheet 2:
-Checkout Times for users.
+Map of the Stations with more than 10,000 trips in the month of August 2019.  `Top stations are concentrated in lower Manhattan`.
 <p align="center">
- <img src="https://user-images.githubusercontent.com/98360572/169609187-5628588d-1647-4a5c-bf71-da6d76706b9e.png" width="50%" height="50%">
+ <img src="https://user-images.githubusercontent.com/98360572/169657635-dc5905b4-5522-4578-83f2-6b1f9481467a.png" width="50%" height="50%">
+</p>
+
+### Worksheet 3:
+Chart of the top stations. `Each of the top 10 stations generated more than 11,500 rides`. 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/98360572/169657755-efc2dd36-c329-421a-bdcf-9c9e64cc42e4.png" width="50%" height="50%">
 </p>
 
 
