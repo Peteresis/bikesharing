@@ -88,7 +88,7 @@ Based on the number of 'Unknown' gender, the quality of demographic data among s
 * Gender: Male.
 * Age: 24 to 34 years old.
 * Rides mostly in the lower Manhattan.
-* Based on the peak hours of the service, most rides use CitiBike to get to and from work.
+* Based on the peak hours of the service, most riders use CitiBike to get to and from work.
 * Rides last less than 30 minutes
 * Each bike is used an `average` of 6 times per day
 
@@ -96,9 +96,15 @@ Based on the number of 'Unknown' gender, the quality of demographic data among s
  <img src="https://user-images.githubusercontent.com/98360572/169659221-adf6c801-1e57-45a8-af34-d07b54885b20.png" width="50%" height="50%">
 </p>
 
-
 ## :three: Summary
 
+Even though we have not received any financial data from CitiBike, [their website](https://citibikenyc.com/) indicates the cost of the service as follows:
+
+|   **CitiBike Service Prices as of May 2022**     |
+| ----------- |
+|     Suscriptions cost $15.42 per month   |
+| ----------- |
+|     Single rides cost $3.99 each   |
 
 
 
