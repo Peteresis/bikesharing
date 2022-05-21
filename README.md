@@ -1,7 +1,16 @@
 ![cosmo-hero22](https://user-images.githubusercontent.com/98360572/169594155-8be04a88-e352-40c8-a1aa-c08518ced21b.png)
 # Analysis of NYC CitiBike Trip Data Using Tableau
 ---
-# Index
+#### Table of Contents
+
+[Overview]()  
+[Resources](#resources)  
+[Objectives](#objectives)  
+[Summary](#summary)   
+[Challenge Overview](#challenge-overview)  
+[Challenge Objectives](#challenge-objectives)
+[Challenge Summary](#challenge-summary)  
+[Limitations](#limitations)
 ---
 
 ## :one: Overview of the analysis 
