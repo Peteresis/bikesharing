@@ -1,6 +1,9 @@
 ![cosmo-hero22](https://user-images.githubusercontent.com/98360572/169594155-8be04a88-e352-40c8-a1aa-c08518ced21b.png)
 # Analysis of NYC CitiBike Trip Data Using Tableau
 ---
+# Index
+---
+
 ## :one: Overview of the analysis 
 
 Citi Bike is the nation's largest bike share program, with 25,000 bikes and over 1,500 stations located throughout Manhattan, Brooklyn, Queens, the Bronx, Jersey City, and Hoboken. Citi Bike is a fun and affordable way to get around town. It was designed with convenience in mind for quick trips. Citi Bike is frequently faster than other modes of transportation (particularly when traveling across town), and it is more convenient than owning a bike. Using Citi Bike instead of taxis can save you a lot of money. A year of Citi Bike is also less expensive than two monthly subway passes.
@@ -109,7 +112,9 @@ The comparison of other factors are not conclusive.  The median age in Des Moine
 |   ![image](https://user-images.githubusercontent.com/98360572/169660596-a761bdb2-e74f-47e7-8cd2-49363e41922b.png)     |
 | ----------- |
 
+The second factor to consider is geography.  As can be seen in the image below, the city of Des Moines is much smaller than New York.  The average conmute time in Des Moines is 18.83 minutes (see table above) while in NY is 40.78 minutes, so it seems like the size of the city and the relative fluid traffic in Des Moines makes a bike share program less attractive than in NYC
 
+### Map of Des Moines superimposed on the map of New York
 ![image](https://user-images.githubusercontent.com/98360572/169661488-a4120ced-30c5-4c22-9369-89bf7df1bff8.png)
 
 [Des Moines map overimposed on New York map](https://www.size-explorer.com/en/compare/cities/newyork2/desmoines2/) 
