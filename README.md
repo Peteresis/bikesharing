@@ -99,24 +99,27 @@ Based on the number of 'Unknown' gender, the quality of demographic data among s
 
 ## :three: Summary
 
-Based on the data analyzed, it seems like the CitiBike service in NYC is a successful venture but, can DesBikes succeed in Des Moines, Iowa?
+Based on the data, it appears that the CitiBike service in New York City is a successful venture, but can DesBikes succeed in Des Moines, Iowa?
 
-The site `BestPlaces.net` offers a comparison between both cities using census data.  From the table below the first line of information calls our attention immediately.  The population in Des Moines is `212,312` inhabitants while New York has `8,253,213`, so New York's population is almost 40 times bigger than Des Moines (the exact figure is 38.9).  The number of rides per inhabitant in NYC is `2,344,244 rides / 8,253,213 inhabitants = 0.284 rides/inhabitant`.  If we apply the same proportion to Des Moines, the potential market would be `212,312 inhabitants * 0.284 rides/inhabitant = 60,305 rides per month`, a far cry from the 2.3 million rides per month of NYC.
+The website `BestPlaces.net` compares the two cities using census data. The first line of information in the table below grabs our attention right away. Des Moines has a population of 212,312 people, while New York has a population of 8,253,213 people, making New York nearly 40 times larger than Des Moines (the exact figure is 38.9). In New York City, the number of rides per inhabitant is `2,344,244 rides / 8,253,213 inhabitants = 0.284 rides/inhabitant`. If the same proportion is applied to Des Moines, the potential market would be `212,312 inhabitants * 0.284 rides/inhabitant = 60,305 rides per month`, a far cry from NYC's 2.3 million rides per month.
 
-The comparison of other factors are not conclusive.  The median age in Des Moines and NY is very similar, although the median income in Des Moines is 12% lower but the living costs in NY are much higher, so in relative terms the inhabitants of Des Moines are better off than New Yorkers.  It is worth noting that according to the data in `BestPlaces.net`, the housing costs in NY are 287.8% higher than Des Moines.
+The comparison of other factors is not conclusive. The median age in Des Moines and New York is very similar, and while the median income in Des Moines is 13% lower, the living costs in New York are much higher, so Des Moines residents are better off in relative terms than New Yorkers. It is worth noting that, according to `BestPlaces.net`, housing costs in New York are 287.8% higher than in Des Moines.
 
 ### Data from BestPlaces.net ([2022 Compare Cities Overview: Des Moines, IA vs New York, NY](https://www.bestplaces.net/compare-cities/des_moines_ia/new_york_ny/overview))
 
 |   ![image](https://user-images.githubusercontent.com/98360572/169660596-a761bdb2-e74f-47e7-8cd2-49363e41922b.png)     |
 | ----------- |
 
-The second factor to consider is geography.  As can be seen in the image below, the city of Des Moines is much smaller than New York.  The average commute time in Des Moines is 18.83 minutes (see table above) while in NY is 40.78 minutes, so it seems like the size of the city and the relative fluid traffic in Des Moines makes a bike share program less attractive than in NYC.
+The second consideration is geography. Des Moines, as shown in the image below, is much smaller than New York. The average commute time in Des Moines is 18.83 minutes (see table above), while in New York it is 40.78 minutes, so it appears that the city's size and relative fluid traffic in Des Moines make a bike share program less appealing than in New York.
 
-### Map of Des Moines superimposed on the map of New York
+### Map of Des Moines superimposed on the map of New York (https://www.size-explorer.com/en/compare/cities/newyork2/desmoines2/)
 ![image](https://user-images.githubusercontent.com/98360572/169661488-a4120ced-30c5-4c22-9369-89bf7df1bff8.png)
 
-[Des Moines map overimposed on New York map](https://www.size-explorer.com/en/compare/cities/newyork2/desmoines2/) 
+### Conclusion:
+| The smaller geographical area of Des Moines in comparison to New York, as well as the shorter commute times, make the idea of investing in a bike share program for Des Moines less appealing. |
+| ---------- |
 
+---
 ## :four: References
 
 **Module 14: Tableau Basics**, https://courses.bootcampspot.com/courses/1145/pages/14-dot-0-1-tableau-basics, :copyright: 2020-2021 Trilogy Education Services, Web 21 May 2022.
